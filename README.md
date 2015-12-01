@@ -2,6 +2,6 @@
 
 ### [Simple Gradient Descent](TensorFlow-Tutorial01.ipynb)
 ### [Simple MNIST] (TensorFlow-MNIST.ipynb)
-### MNIST using CNN
+### [MNIST using CNN](MNIST-CNN.ipynb)
 
 
